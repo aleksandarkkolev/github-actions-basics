@@ -1,4 +1,4 @@
-me: Security Test
+name: Security Test
 
 on: [push]
 
